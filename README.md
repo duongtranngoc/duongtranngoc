@@ -12,7 +12,7 @@ I'm a web developer from Vietnam
 ## 📫 How to reach me:
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/tranhayem/">
+    <a href="https://www.linkedin.com/in/duongtranngoc/">
         <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" target="_blank" alt="Linkedin" />
     </a>
     <a href="https://www.facebook.com/duongtranngoc.info">
