@@ -5,7 +5,7 @@
 
 I'm a web developer from Vietnam
 - 🌱 I’m currently learning Thuy Loi University
-- 👨‍💻 All of my projects are available at [duongtranngoc](https://github.com/duongtranngoc)
+- 👨‍💻 Currently, most of my projects are in [tranhayem](https://github.com/tranhayem)
 </p>
 <br />
 
