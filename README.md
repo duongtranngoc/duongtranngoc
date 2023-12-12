@@ -1,7 +1,8 @@
 <h1 align="center">Duong's profile</h1>
-<p>
+
+<a href="https://github.com/duongtranngoc">
     <img src="https://komarev.com/ghpvc/?username=duongtranngoc&style=for-the-badge">
-</p>
+</a>
 
 I'm a web developer from Vietnam
 - 🌱 I’m currently learning Thuy Loi University
