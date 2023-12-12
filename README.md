@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duong Tran</h1>
+<h1 align="center">Duong's profile</h1>
 <p>
     <img src="https://komarev.com/ghpvc/?username=duongtranngoc&style=for-the-badge">
 </p>
@@ -12,6 +12,9 @@ I'm a web developer from Vietnam
 ## 📫 How to reach me:
 
 <p align="center">
+    <a href="https://www.linkedin.com/in/tranhayem/">
+        <img src="https://img.icons8.com/fluent/50/000000/linkedin.png" target="_blank" alt="Linkedin" />
+    </a>
     <a href="https://www.facebook.com/duongtranngoc.info">
         <img src="https://img.icons8.com/fluent/50/000000/facebook-new.png" target="_blank" alt="Facebook" />
     </a>
