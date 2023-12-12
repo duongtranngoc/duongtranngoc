@@ -4,13 +4,16 @@
     <img src="https://komarev.com/ghpvc/?username=duongtranngoc&style=for-the-badge">
 </a>
 
-I'm a web developer from Vietnam
-- 🌱 I’m currently learning Thuy Loi University
-- 👨‍💻 Currently, most of my projects are in [tranhayem](https://github.com/tranhayem)
-</p>
-<br />
+## 🌐 Introduction:
 
-## 📫 How to reach me:
+- 👋 Hi, I'm Tran Ngoc Duong.
+- 🎂 I was born on June 3, 2001.
+- 👨‍💻 I'm a web developer.
+- 🇻🇳  I'm from Vietnamese.
+- 🌱 I’m currently learning Thuy Loi University.
+- 🛠️ Currently, most of my projects are in [tranhayem](https://github.com/tranhayem).
+
+## 📧 How to reach me:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/duongtranngoc/">
@@ -27,7 +30,7 @@ I'm a web developer from Vietnam
     </a>
 </p>
 
-## Skills:
+## 🚀 Skills:
 
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/HTML">
@@ -58,21 +61,21 @@ I'm a web developer from Vietnam
     </a>
 </p>
 
-## Activities:
+## 🎯 Activities:
 
 <table style="width:100%;">
     <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongtranngoc&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20languages%20used"
-                alt="Top languages used" width="100%" />
-            <img src="https://github-readme-stats.vercel.app/api?username=duongtranngoc&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github"
-                alt="Works on Github" width="100%" />
-        </td>
         <td>
             <p align="center">
                 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev"
                     width="100%" />
             </p>
+        </td>
+        <td>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duongtranngoc&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20languages%20used"
+                alt="Top languages used" width="100%" />
+            <img src="https://github-readme-stats.vercel.app/api?username=duongtranngoc&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Works%20on%20Github"
+                alt="Works on Github" width="100%" />
         </td>
     </tr>
 </table>
