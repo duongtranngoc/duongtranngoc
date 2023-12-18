@@ -11,7 +11,7 @@
 - 👨‍💻 I'm a web developer.
 - 🇻🇳  I'm from Vietnamese.
 - 🌱 I’m currently learning Thuy Loi University.
-- 🛠️ Currently, most of my projects are in [tranhayem](https://github.com/tranhayem).
+- 🛠️ Currently, most of my projects are in [tranhayem](https://github.com/nguyenthuhien5612).
 
 ## 📧 How to reach me:
 
@@ -21,9 +21,6 @@
     </a>
     <a href="https://www.facebook.com/duongtranngoc.info">
         <img src="https://img.icons8.com/fluent/50/000000/facebook-new.png" target="_blank" alt="Facebook" />
-    </a>
-    <a href="https://github.com/duongtranngoc">
-        <img src="https://img.icons8.com/fluent/50/000000/github.png" target="_blank" alt="GitHub" />
     </a>
     <a href="mailto:duongtn0306@gmail.com">
         <img src="https://img.icons8.com/fluent/50/000000/mailing.png" target="_blank" alt="Email" />
