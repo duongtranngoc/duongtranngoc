@@ -12,6 +12,7 @@
 - 🇻🇳  I'm from Vietnamese.
 - 🌱 I’m currently learning Thuy Loi University.
 - 🛠️ Currently, most of my projects are in [tranhayem](https://github.com/nguyenthuhien5612).
+- 🗃️ See more about me at [THY](https://duongtranngoc.github.io/portfolio).
 
 ## 📧 How to reach me:
 
